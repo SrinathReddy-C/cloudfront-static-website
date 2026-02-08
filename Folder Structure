@@ -1,0 +1,17 @@
+cloudfront-static-website/
+│
+├── website/
+│   ├── index.html
+│   ├── error.html
+│   ├── styles.css
+│
+├── scripts/
+│   ├── deploy.sh
+│   └── invalidate.sh
+│
+├── .github/
+│   └── workflows/
+│       └── deploy.yml
+│
+├── README.md
+└── .gitignore
